@@ -1,10 +1,10 @@
-##In short
+#In short
 
 this is AI for looking throgh your CCTV video archive and deting everything you don't want to spend time on. Also it has a special mode for working on the fly, by utilizing inotify linux kernel feature for monitoring dir you define. File arrived, than processed - that's easy.
 
 No installation, no docs - just pass --help, then read sources.
 
-##Thoughts
+#Thoughts
 
 It's not even the script that is ready to use, but a good starting point for you to find what will solve your problem. The problem it intended to solve was the absense of pattern recognition in the current version of [Motion](Motion-Project/motion) which is great and rock-stable CCTV system I used for more than decade and still use.
 
