@@ -1,6 +1,6 @@
 ## In short
 
-this is AI for looking throgh your CCTV video archive and deting everything you don't want to spend time on. Also it has a special mode for working on the fly, by utilizing inotify linux kernel feature for monitoring dir you define. File arrived, than processed - that's easy.
+This is AI for looking throgh your CCTV video archive and detcing everything you don't want to spend time on. Also it has a special mode for working on the fly, by utilizing inotify linux kernel feature for monitoring dir you define. File arrived, then processed - that's easy.
 
 No installation, no docs - just pass --help, then read sources.
 
